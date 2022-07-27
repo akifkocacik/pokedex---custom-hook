@@ -1,0 +1,48 @@
+.card {
+  width: 50%;
+  height: 50%;
+  margin: auto;
+  border-radius: 0.5rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  background-color: #333;
+  color: #fff;
+}
+
+.pokename {
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 1rem;
+  text-transform: uppercase;
+}
+
+.pokeimg {
+  width: 50%;
+  height: auto;
+  border-radius: 0.5rem;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+
+.poketype {
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 1rem;
+  text-transform: uppercase;
+}
+
+.pokeheight {
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.pokeweight {
+  font-size: 1.2rem;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 1rem;
+}
